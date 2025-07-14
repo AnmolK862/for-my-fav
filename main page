@@ -59,7 +59,7 @@
 <body>
 
   <!-- Image on top -->
-  <img src="C:\Users\anmol\Downloads\cupcake.png" alt="Cupcake" />
+  <img src="cupcake.png" alt="Cupcake" />
 
   <h1>Hey, my pretty cupcake 
     <br>
